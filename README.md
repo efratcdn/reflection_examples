@@ -26,6 +26,7 @@ or as building blocks for more advanced capabilities.
 
 
 ==========================
+
 1) Look for unit instances
 
 ==========================
@@ -51,6 +52,7 @@ or as building blocks for more advanced capabilities.
 
 
 ======================
+
 2) Check for dead code
 
 ======================
@@ -87,6 +89,7 @@ or as building blocks for more advanced capabilities.
 
 
 ==============
+
 3) Soft extend
 
 ==============
@@ -105,6 +108,7 @@ or as building blocks for more advanced capabilities.
 
 
 ==========================
+
 4) Get methods information
 
 ==========================
@@ -120,6 +124,7 @@ or as building blocks for more advanced capabilities.
   
 
 ==================================
+
 5) Print fields that match pattern
 
 ==================================
@@ -136,6 +141,7 @@ or as building blocks for more advanced capabilities.
   
 
 ===========================
+
 6) Show user defined macros
 
 ===========================
@@ -153,6 +159,7 @@ or as building blocks for more advanced capabilities.
 
 
 ==========================
+
 7) Invoke methods, iterate
 
 ==========================
@@ -176,6 +183,7 @@ or as building blocks for more advanced capabilities.
 
 
 ===============================
+
 8) Set value to struct's fields
 
 ===============================
