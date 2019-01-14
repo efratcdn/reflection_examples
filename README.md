@@ -27,6 +27,7 @@ or as building blocks for more advanced capabilities.
 
 ==========================
 1) Look for unit instances
+
 ==========================
 
    e_util_look_for_instances.e
@@ -51,6 +52,7 @@ or as building blocks for more advanced capabilities.
 
 ======================
 2) Check for dead code
+
 ======================
   
 
@@ -86,6 +88,7 @@ or as building blocks for more advanced capabilities.
 
 ==============
 3) Soft extend
+
 ==============
 
    e_util_soft_extend.e
@@ -103,6 +106,7 @@ or as building blocks for more advanced capabilities.
 
 ==========================
 4) Get methods information
+
 ==========================
 
   e_util_get_methods_info.e
@@ -117,6 +121,7 @@ or as building blocks for more advanced capabilities.
 
 ==================================
 5) Print fields that match pattern
+
 ==================================
 
   e_util_find_and_print_field.e
@@ -132,6 +137,7 @@ or as building blocks for more advanced capabilities.
 
 ===========================
 6) Show user defined macros
+
 ===========================
 
   e_util_show_user_macros.e
@@ -148,6 +154,7 @@ or as building blocks for more advanced capabilities.
 
 ==========================
 7) Invoke methods, iterate
+
 ==========================
 
   e_util_invoke_methods.e
@@ -170,6 +177,7 @@ or as building blocks for more advanced capabilities.
 
 ===============================
 8) Set value to struct's fields
+
 ===============================
 
   e_util_set_fields.e
