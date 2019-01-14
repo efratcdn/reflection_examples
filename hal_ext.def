@@ -1,0 +1,7 @@
+include default
+
+category MY_CHECKS "my own checks" default_on
+
+{
+CHECK_DEAD_CODE
+} 
