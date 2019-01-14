@@ -37,7 +37,7 @@ or as building blocks for more advanced capabilities.
       a specific unit. "did someone instantiate a scoreboard?"
 
 
-  who_instance()
+  who_instance
   
       Report if there is an instance of the unit type, and if yes - where 
       (in the code) the instantiation was done.
